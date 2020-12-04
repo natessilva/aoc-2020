@@ -5,6 +5,7 @@
   "repository": "https://github.com/natessilva/aoc-2020.git",
   "license": "MIT",
   "dependencies": {
+    "@types/lodash": "^4.14.165",
     "lodash": "^4.17.20"
   },
   "devDependencies": {
